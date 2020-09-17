@@ -1,0 +1,2 @@
+# lcMybatisGeneratorPlugins
+lcMybatisGeneratorPlugins
